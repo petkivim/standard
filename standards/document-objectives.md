@@ -17,7 +17,8 @@ order: 7
 
 ## What this doesn’t do
 
-* ???
+* Guarantee that the codebase acheives the stated objective(s).
+* Prevent other codebases from attempting to achieve the same objectives.
 
 ## How to test
 
@@ -37,4 +38,5 @@ order: 7
 
 ## Further reading
 
-* ???
+* http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf
+
